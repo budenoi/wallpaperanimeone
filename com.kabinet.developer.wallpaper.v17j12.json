@@ -1,9 +1,9 @@
 {
   "redirect" : {
  
-"json_popup_wait" : "wallcome to the jungle",
+"json_popup_wait" : "wallcome to tricaal studio",
   
-"mode_no_ads" : true,
+"mode_no_ads" : false,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
 
 "Mode Iklan " : "
@@ -17,8 +17,8 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 ",
 
 "pengaturan_iklan_banner" : "1",
-"pengaturan_iklan_inter" : "4",
-"pengaturan_iklan_native" : "1",
+"pengaturan_iklan_inter" : "5",
+"pengaturan_iklan_native" : "4",
 
 "inter_count" : 1,
 
@@ -54,8 +54,8 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 "unity_id" : 4801043,
 "unity_test" : true,
 
-"applovin_banner_id" : "YOUR_AD_UNIT_ID",
-"applovin_inters_id" : "YOUR_AD_UNIT_ID",
+"applovin_banner_id" : "d0468a6d01b487ce",
+"applovin_inters_id" : "48ec9107daba408e",
 
 "exit_popup_dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
 "rate_button" : "Rate 5 Stars",
