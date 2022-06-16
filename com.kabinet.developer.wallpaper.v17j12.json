@@ -3,7 +3,7 @@
  
 "json_popup_wait" : "wallcome to tricaal studio",
   
-"mode_no_ads" : false,
+"mode_no_ads" : true,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
 
 "Mode Iklan " : "
@@ -32,9 +32,9 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 
 "startapp" : "205781908",
 
-"admob_banner" : "ca-app-pub-3940256099942544/6300978111",
-"admob_inter" : "ca-app-pub-3940256099942544/1033173712",
-"admob_native" : "ca-app-pub-3940256099942544/2247696110",
+"admob_banner" : "ca-app-pub-7736517855402652/6256101130",
+"admob_inter" : "ca-app-pub-7736517855402652/8855749281",
+"admob_native" : "ca-app-pub-7736517855402652/7377611110",
 
 "hpk_alien" : "kuota data 30gb",
 "hpkadmob1" : "Kuota Data",
@@ -54,8 +54,8 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 "unity_id" : 4801043,
 "unity_test" : true,
 
-"applovin_banner_id" : "d0468a6d01b487ce",
-"applovin_inters_id" : "48ec9107daba408e",
+"applovin_banner_id" : "YOUR_AD_UNIT_ID",
+"applovin_inters_id" : "YOUR_AD_UNIT_ID",
 
 "exit_popup_dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
 "rate_button" : "Rate 5 Stars",
